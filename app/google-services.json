@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456794882056",
+    "project_id": "istandroid",
+    "storage_bucket": "istandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456794882056:android:5e7ae5167e7172eb64d1bd",
+        "android_client_info": {
+          "package_name": "com.example.istandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH0moqtL0uwQLnhlZnaZyAgEl2uo90gMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
